@@ -8,7 +8,7 @@
     <p>To make this project i have used c++ , java , python , processing , fusion360 , web development , android development.</p>
     <br>
 
-    ![photo one](https://github.com/PIEspace/LEARNING-FLIGHT-COMPUTER-/assets/134577378/44586e7d-3521-457c-bab0-32a57937d433)
+    
 
     
 
