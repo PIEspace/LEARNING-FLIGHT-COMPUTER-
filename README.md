@@ -11,6 +11,10 @@
 ![photo one](https://github.com/PIEspace/LEARNING-FLIGHT-COMPUTER-/assets/134577378/e12e025b-7832-4df1-b377-f64cfcd0d329)
 
 
+
+
+
+
     
 
 
